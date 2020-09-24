@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     int branchTest;
     int branchTest2;
+    int branchTest3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
